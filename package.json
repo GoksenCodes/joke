@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/GoksenCodes/joke/issues"
   },
-  "homepage": "https://github.com/GoksenCodes/joke#readme"
+  "homepage": "https://github.com/GoksenCodes/joke#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
